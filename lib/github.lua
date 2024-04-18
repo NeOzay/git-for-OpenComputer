@@ -1,7 +1,7 @@
 local fs = require("filesystem")
 local serialization = require("serialization")
 local computer = require("computer")
-local inspect = require("inspect")
+
 local JSON = require("dkjson")
 local inet = require("internet")
 
